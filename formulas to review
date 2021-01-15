@@ -9,3 +9,6 @@ Geometry:
  Complex Numbers:
       -Roots of Unity
       - De Movire's theorem
+
+General stuff:
+     -x^a = (x-1)(x^a-1 ...... + 1)
