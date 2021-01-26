@@ -12,3 +12,9 @@ Geometry:
 
 General stuff:
      -x^a = (x-1)(x^a-1 ...... + 1)
+     
+     
+Centroid point:
+ - (x,y) = ((x1  +x2  +x3)/3,  (y1 + y2 + y3)/3)
+ - Centroid is 2/3 way from vertex to midpoint
+ 
