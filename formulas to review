@@ -1,20 +1,30 @@
 Geometry:
  - Descartes Triangles
- 
+ -Incenter: triangle with a,b,c and points x,y, the location of orthocenter is ax + bx +cx / a+b+c and ay + by + cy / a+b+C
+ -Circumcenter: Call circumcenter of triangle (x,y). then ,the circumcenter's distance to all vertex must be the same. Solve the system of equations to obtain x,y
  
  
  Roots/ polynomials
       -Newtons Sums
       
  Complex Numbers:
-      -Roots of Unity
+      -Roots of Unity: 
+             - if z^n = a, then z^n = a(1). root of 1 is e^k(i) pi  for k = 0,1,2....n;
+             - To find z just root the sides by n. Find points
       - De Movire's theorem
 
 General stuff:
      -x^a = (x-1)(x^a-1 ...... + 1)
-     
+Coordinate geometry:
+      - Shifting left and right does not affect area, so you can shift to make it easier
+Fractions
+      - If something is complex on the denominator but that variable is also expressed in the numerator, make it so that the denominator is expressed with one variable s
+      -Try to eliminate fractions, by multiplying all by denominators
      
 Centroid point:
  - (x,y) = ((x1  +x2  +x3)/3,  (y1 + y2 + y3)/3)
  - Centroid is 2/3 way from vertex to midpoint
- 
+
+Rewriting Variables:
+   - When there is a lot of variables, it is usually good to write one variable in terms of another ,even if you dont know how much they differ. i.e r = k+x, for making r similar to k
+   
