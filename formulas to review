@@ -1,7 +1,12 @@
 Geometry:
  - Descartes Triangles
  -Incenter: triangle with a,b,c and points x,y, the location of orthocenter is ax + bx +cx / a+b+c and ay + by + cy / a+b+C
+        - The segments from the incenter to each vertex bisects each angle.
+        -The distances from the incenter to each side are equal to the inscribed circle's radius.
+        -The area of the triangle is equal to r x seimperimeter, 
  -Circumcenter: Call circumcenter of triangle (x,y). then ,the circumcenter's distance to all vertex must be the same. Solve the system of equations to obtain x,y
+        - r = a/ 2sin(a) = abc / 4S
+        -Is the intersection of perpendicular bisectors
  
  
  Roots/ polynomials
@@ -28,3 +33,5 @@ Centroid point:
 Rewriting Variables:
    - When there is a lot of variables, it is usually good to write one variable in terms of another ,even if you dont know how much they differ. i.e r = k+x, for making r similar to k
    
+Tangent Circles: 
+   - Whether internal or externally tangent, the two radii are colinnear.
