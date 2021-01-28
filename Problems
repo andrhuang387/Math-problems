@@ -2,3 +2,6 @@ LCM/GCM
      - 2016 AMC 12B Problems/Problem 24 
 Mod arithmetic:
      - 2018 AMC 12B Problem 14  ( trick is to make denominator one value, so it is simple to work with)
+     
+Complex/Imaginary Numbers:
+     - 2018 AMC 12 A Problem 20  ( the trick is to write z in terms of cis. Generally, when you get a complex number, see if it can be written as cis), then apply demovires theorem
