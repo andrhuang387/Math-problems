@@ -17,6 +17,8 @@ Geometry:
              - if z^n = a, then z^n = a(1). root of 1 is e^k(i) pi  for k = 0,1,2....n;
              - To find z just root the sides by n. Find points
       - De Movire's theorem
+               -Z = rcis(theta);
+                    -> z^n = r^n cis(ntheta);
 
 General stuff:
      -x^a = (x-1)(x^a-1 ...... + 1)
